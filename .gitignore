@@ -1,3 +1,5 @@
 venv
 mlproject.egg-info
 generic_ml_venv
+artifacts
+logs
